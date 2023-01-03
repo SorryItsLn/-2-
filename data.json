@@ -1,0 +1,33 @@
+[
+    
+    {
+        "title": "Storm spirit", 
+        "photo": "storm_spirit.png",
+        "strange":{
+            "atack": 35,
+            "agility": 48,
+            "defence": 4
+            
+        }
+    },
+    {
+        "title": "Templar Assasin", 
+        "photo": "templar_assasin.png",
+        "strange":{
+            "atack": 30,
+            "agility": 40,
+            "defence": 6
+            
+        }
+    },
+    {
+        "title": "Mortis", 
+        "photo": "mortis.png",
+        "strange":{
+            "atack": 58,
+            "agility": 25,
+            "defence": 6
+            
+        }
+    }
+]
